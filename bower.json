@@ -8,7 +8,14 @@
   ],
   "dependencies": {
     "purescript-prelude": "^3.0.0",
-    "purescript-console": "^3.0.0"
+    "purescript-console": "^3.0.0",
+    "purescript-canvas": "^3.0.0",
+    "purescript-partial": "^1.2.0",
+    "purescript-maybe": "^3.0.0",
+    "purescript-foldable-traversable": "^3.0.0",
+    "purescript-arrays": "^4.0.1",
+    "purescript-decimals": "^3.0.0",
+    "purescript-math": "^2.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
